@@ -1,0 +1,29 @@
+*{
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+	/*text-align: center;*/
+}
+
+.btn-info{
+	background: red;
+}
+
+.btn-info:hover {
+	background: gold;
+}
+
+.btn-info:focus:active {
+	background-color: green; 
+}
+
+.jumbotron {
+	background-image: url(../images/idea.jpeg);
+	background-position: center;
+	background-size: cover;
+	color: white;
+}
+
+#random-gif-container{
+	margin: 1px;
+}

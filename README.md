@@ -1,5 +1,4 @@
-# Bootstrap Template
+# First Bootstrap Project
 
-This is a template using Bootstrap 3. Remember to change github repo with:
+Bootstrap project learning nav bar and how to put a gif in a div
 
-git remote set-url origin "name-of-new-github-repo"
