@@ -1,4 +1,4 @@
-# First Bootstrap Project
+# Udacity Build A Portfolio Site Project
 
-Bootstrap project learning nav bar and how to put a gif in a div
+Building a portfolio site for Udacity using bootstrap
 
